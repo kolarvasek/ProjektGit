@@ -1,4 +1,6 @@
 # Práce s Git a GitHub
+## POSTUP SPUSTENI A NASTAVENI
+LCD pripojime go portu GP1 do pico w nahrajeme lcd.py a my_sectets.py a main.py a souboru my_secrets.py nastavte svuj vlastni klic z openweather stranky a zmene nazev site (SSID, pripadne dodejte heslo).
 ## Zadání práce
 Tento repozitář si zkopírujte do svého počítače, bude sloužit jako základ projektu. 
 Vytvořte si veřejný repozitář na GitHub a propojte ho s lokálním repozitářem, tím co jste si zkopírovali. 
